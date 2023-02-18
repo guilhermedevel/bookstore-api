@@ -26,5 +26,3 @@ public class CategoriaResource {
 	}
 	
 }
-
-// localhost:8080/categorias/1
